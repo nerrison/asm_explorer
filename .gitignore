@@ -7,7 +7,7 @@
 *.obj
 *.o
 *.out
-*.asm
+*.s
 
 # Ignore temporary files
 *.tmp
