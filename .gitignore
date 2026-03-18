@@ -3,6 +3,7 @@
 
 # Ignore Windows metadata
 *.Zone.Identifier
+*:Zone.Identifier
 
 # Ignore compiled object files and executables
 *.exe
