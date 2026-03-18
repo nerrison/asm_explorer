@@ -1,6 +1,8 @@
 # Ignore VS Code settings folder
 .vscode/
 
+# Ignore Windows metadata
+*.Zone.Identifier
 
 # Ignore compiled object files and executables
 *.exe
