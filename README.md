@@ -67,25 +67,25 @@ make clean     # Remove executable and temporary files
 
 ### 4. Examples
 
-# Compile a single file and print assembly
+#### Compile a single file and print assembly
 
 ```bash
 ./asm_explorer dir/file.c
 ```
 
-# Strip assembly noise
+#### Strip assembly noise
 
 ```bash
 ./asm_explorer --strip dir/file.c
 ```
 
-# Highlight function "foo" and show instruction count
+#### Highlight function "foo" and show instruction count
 
 ```bash
 ./asm_explorer --focus foo --size dir/file.c
 ```
 
-# Watch mode with extra compiler flags
+#### Watch mode with extra compiler flags
 
 ```bash
 ./asm_explorer --watch dir/file.c -- -Wall -Wextra -g -Iinclude
