@@ -1,6 +1,6 @@
-# ASM Explorer
+# C2ASM
 
-**ASM Explorer** is a lightweight C program that compiles C source files and prints their assembly output in **Intel syntax**. It is designed as a learning tool to explore how C code translates into assembly instructions.  
+**C2ASM** is a lightweight C program that compiles C source files and prints their assembly output in **Intel syntax**. It is designed as a learning tool to explore how C code translates into assembly instructions.  
 
 This project currently supports **GCC** and **Clang** and is ideal for anyone learning C, assembly, or compiler behavior.
 
